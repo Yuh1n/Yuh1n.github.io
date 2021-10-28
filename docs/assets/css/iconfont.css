@@ -21,7 +21,7 @@
 
 .icon-weibo:before { content: "\e62d"; }
 
-.icon-csdn:before { content: "\e60a"; }
+.icon-cnblogs:before { content: "\e60a"; }
 
 .icon-jianshu:before { content: "\e675"; }
 
@@ -33,7 +33,7 @@
 
 .icon-zhihu:before { content: "\e8de"; }
 
-.icon-csdn:before { content: "\e602"; }
+.icon-cnblogs:before { content: "\e602"; }
 
 .icon-juejin:before { content: "\e601"; }
 
