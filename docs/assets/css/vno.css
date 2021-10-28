@@ -8,6 +8,7 @@ html {
 
 body {
   margin: 0
+  cursor: url(rem.cur),auto;
 }
 
 .ih-item.circle.effect {
@@ -7651,6 +7652,7 @@ a:hover {
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
+  cursor: url(remhover.cur),auto;
 }
 
 h1,
